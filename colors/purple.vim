@@ -30,7 +30,7 @@ hi Statement       guifg=#FF70A7
 "Conditional
 "Repeat
 "Label
-"Operator
+hi Operator        guifg=#FF9770
 "Keyword
 "Exception
 
@@ -64,12 +64,12 @@ hi Todo            guifg=#F6EDF1       guibg=#525629
 "                                   editor
 " ------------------------------------------------------------------------------
 
-hi ColorColumn                         guibg=#9590CA
+hi ColorColumn                         guibg=#4B2956
 "Conceal
 hi Cursor                              guibg=#70FFC8
 "CursorIM
 "CursorColumn
-hi CursorLine                          guibg=#9590CA
+hi CursorLine                          guibg=#4B2956
 "Directory
 hi DiffAdd         guifg=#F9F871       guibg=#2D2956
 hi DiffChange      guifg=#ED7E66       guibg=#2D2956
