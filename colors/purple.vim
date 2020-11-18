@@ -19,14 +19,14 @@ hi Comment         guifg=#70D6FF
 hi Constant        guifg=#FF9770
 hi String          guifg=#FFE070
 hi Character       guifg=#AF2BBF
-hi Number          guifg=#8170FF
+hi Number          guifg=#70EFF0
 hi Boolean         guifg=#E070FF
 hi Float           guifg=#70BFFF
 
 hi Identifier      guifg=#FF70A7
 hi Function        guifg=#AE26F7
 
-hi Statement       guifg=#29D8F7
+hi Statement       guifg=#FF9770
 "Conditional
 "Repeat
 "Label
@@ -40,7 +40,7 @@ hi Define          guifg=#9970FF
 hi Macro           guifg=#FF708F
 "PreCondit
 
-hi Type            guifg=#9970FF
+hi Type            guifg=#E070FF
 "StorageClass
 "Structure
 "Typedef
