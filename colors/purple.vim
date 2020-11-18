@@ -87,7 +87,7 @@ hi MatchParen      guifg=#FF818F       guibg=#F9F871
 "ModeMsg
 "MoreMsg
 "NonText
-hi Normal          guifg=#FF70A7       guibg=#2D2956
+hi Normal          guifg=#70E0F0       guibg=#2D2956
 "Pmenu
 "PmenuSel
 "PmenuSbar
