@@ -23,10 +23,10 @@ hi Number          guifg=#8170FF
 hi Boolean         guifg=#E070FF
 hi Float           guifg=#70BFFF
 
-hi Identifier      guifg=#29D8F7
+hi Identifier      guifg=#FF70A7
 hi Function        guifg=#AE26F7
 
-hi Statement       guifg=#FF70A7
+hi Statement       guifg=#29D8F7
 "Conditional
 "Repeat
 "Label
