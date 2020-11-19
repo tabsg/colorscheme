@@ -105,7 +105,7 @@ hi TabLine         guifg=#9590CA       guibg=#2D2956       gui=none
 hi TabLineFill     guifg=#2D2956
 hi TabLineSel                          guibg=#2D2956
 "Title
-"Visual
+hi Visual          guifg=#2D2956       guibg=#D7FF70
 "VisualNOS
 "WarningMsg
 hi Whitespace      guifg=#9590CA
