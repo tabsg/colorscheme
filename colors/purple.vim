@@ -93,7 +93,7 @@ hi Normal          guifg=#70E0F0       guibg=#2D2956
 "PmenuSbar
 "PmenuThumb
 "Question
-"Search
+hi Search          guifg=#FF818F       guibg=#9590CA
 "SpecialKey
 "SpellBad
 "SpellCap
